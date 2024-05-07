@@ -1,1 +1,8 @@
-jenkinsMavenIntegration\SampleTestCase.class
+com\nagarro\calculator\service\mulService.class
+com\nagarro\calculator\controller\MultiplicationController.class
+com\nagarro\calculator\service\addService.class
+com\nagarro\calculator\controller\SubstractionController.class
+com\nagarro\calculator\service\divService.class
+com\nagarro\calculator\controller\DivisionController.class
+com\nagarro\calculator\controller\AdditionController.class
+com\nagarro\calculator\service\subService.class

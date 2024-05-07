@@ -1,1 +1,4 @@
-jenkinsMavenIntegration\SampleTestCase.class
+com\nagarro\calculator\test\service\AdditionTest.class
+com\nagarro\calculator\test\service\DivisionTest.class
+com\nagarro\calculator\test\service\MultiplicationTest.class
+com\nagarro\calculator\test\service\SubstractionTest.class
